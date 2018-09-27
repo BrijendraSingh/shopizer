@@ -159,7 +159,7 @@ public abstract class AbstractimageFilePath implements ImageFilePath {
 		return new StringBuilder().append(getBasePath()).append(Constants.FILES_URI).append(Constants.SLASH).append(store.getCode()).append(Constants.SLASH).append(fileName).toString();
 	}
 	
-
+//my changes
 	
 	
 
